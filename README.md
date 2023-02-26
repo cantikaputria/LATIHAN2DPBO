@@ -8,6 +8,8 @@ maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamin.
 
 # Desain Program
 Multi-level Inheritance
+
+
 ![UML Latihan DPBO 2 drawio](https://user-images.githubusercontent.com/85111014/221394385-9f45feb0-b0d2-4a51-ba8f-8fce4f15ddfb.png)
 
 Menggunakan 4 Bahasa Pemrograman:
