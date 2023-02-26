@@ -36,5 +36,9 @@ Terdapat 3 Kelas : Human, Sivitas Akademik, dan Mahasiswa
    - Method : Konstruktor, set, dan get
 
 # Alur dan Dokumentasi
+  1. Masukkan jumlah data yang akan diinput
+  2. Isi atribut data sesuai perintah
+  3. Lakukan sesuai jumlah data yang diinput
 ![Screenshot_20230220_043400](https://user-images.githubusercontent.com/85111014/220078509-ce7cad95-391a-43c2-807f-0275a9764150.png)
+  4. SELAMATTT!!! Data berhasil diinput dan ditampilkan dalam list
 ![Screenshot_20230220_043416](https://user-images.githubusercontent.com/85111014/220078528-c90a8220-76b9-4538-a441-ad06e4a40a13.png)
