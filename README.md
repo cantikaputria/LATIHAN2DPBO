@@ -7,7 +7,7 @@ dalam Praktikum mata kuliah Desain dan Pemrograman Berorientasi Objek, untuk keb
 maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamin.
 
 # Desain Program
-![UML Latihan DPBO 2 drawio (1)](https://user-images.githubusercontent.com/85111014/220078230-592870c2-fc80-4add-a3ae-23fb8341a556.png)
+![UML Latihan DPBO 2 drawio](https://user-images.githubusercontent.com/85111014/221394385-9f45feb0-b0d2-4a51-ba8f-8fce4f15ddfb.png)
 
 # Alur
 
